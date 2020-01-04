@@ -1,0 +1,83 @@
+{ "menuitems": [
+    {
+    "name": "Spaghetti Grilled Cheese",
+    "description": "Spaghetti with meat sauce, sliced mozzarella, sourdough bread"
+    },
+    {
+    "name": "General Tso’s Sandwich",
+    "description": "Battered all-natural chicken thigh, sweet and savory General Tso’s sauce, shredded lettuce, mayonnaise, fresh-baked bread"
+    },
+    {
+    "name": "Spaghetti and Meatballwich",
+    "description": "Meatballs, garlic basil marinara, melted mozzarella, parmesan spaghetti"
+    },
+    {
+    "name": "Lamb Sandwich",
+    "description": "Superior Farms lamb leg, pita bread, yogurt, cucumber, feta cheese, radish, pickled red onion"
+    },
+    {
+    "name": "Taco De Pescado",
+    "description": "Surpassing the pastor and pollo, Big Star's fish taco has battered tilapia fillet, cabbage, red onion, lime"
+    },
+    {
+    "name": "Steak",
+    "description": "It's some steak and potatoes"
+    },
+    {
+    "name": "Chicken Parmesan",
+    "description": "It's Chicken Parmesan"
+    },
+    {
+    "name": "Pizza",
+    "description": "It's some pizza"
+    },
+    {
+    "name": "Calzone",
+    "description": "It's a calzone"
+    },
+    {
+    "name": "Lasagna",
+    "description": "It's a Lasagna"
+    },
+    {
+    "name": "Soup",
+    "description": "It's some soup"
+    },
+    {
+    "name": "Hoagie",
+    "description": "It's a hoagie"
+    },
+    {
+    "name": "Sub",
+    "description": "It's a sub"
+    },
+    {
+    "name": "Tacos",
+    "description": "It's some tacos"
+    },
+    {
+    "name": "Burrito",
+    "description": "It's a burrito"
+    },
+    {
+    "name": "Wrap",
+    "description": "It's a wrap"
+    },
+    {
+    "name": "Wings",
+    "description": "It's some wings"
+    },
+    {
+    "name": "Stir-Fry",
+    "description": "It's some stir-fry"
+    },
+    {
+    "name": "Chicken Tenders",
+    "description": "It's some chicken tenders"
+    },
+    {
+    "name": "French Fries",
+    "description": "It's some french fries"
+    }
+]
+ }

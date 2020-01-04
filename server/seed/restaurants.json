@@ -1,0 +1,483 @@
+{ "restaurants": [
+{
+"name": "Acquerello",
+"city": "San Francisco",
+"state": "California"
+},
+{
+"name": "Addison Restaurant",
+"city": "San Diego",
+"state": "California"
+},
+{
+"name": "Ambra",
+"city": "Philadelphia",
+"state": "Pennsylvania"
+},
+{
+"name": "Anjelica's Restaurant",
+"city": "Sea Bright",
+"state": "New Jersey"
+},
+{
+"name": "Antebellum",
+"city": "Flowery Branch",
+"state": "Georgia"
+},
+{
+"name": "The Artichoke Restaurant & Bar",
+"city": "Vinita",
+"state": "Oklahoma"
+},
+{
+"name": "Artisan",
+"city": "Elkhart",
+"state": "Indiana"
+},
+{
+"name": "Arturo Boada Cuisine",
+"city": "Houston",
+"state": "Texas"
+},
+{
+"name": "Atera",
+"city": "New York",
+"state": "New York"
+},
+{
+"name": "Bar Mingo",
+"city": "Portland",
+"state": "Oregon"
+},
+{
+"name": "Barrique Venice",
+"city": "Venice",
+"state": "California"
+},
+{
+"name": "Benu",
+"city": "San Francisco",
+"state": "California"
+},
+{
+"name": "Bibou",
+"city": "Philadelphia",
+"state": "Pennsylvania"
+},
+{
+"name": "Birdsong",
+"city": "San Francisco",
+"state": "California"
+},
+{
+"name": "Bistro 31",
+"city": "Dallas",
+"state": "Texas"
+},
+{
+"name": "Bistro Barbes",
+"city": "Denver",
+"state": "Colorado"
+},
+{
+"name": "Bistro Daisy",
+"city": "New Orleans",
+"state": "Louisiana"
+},
+{
+"name": "BOCA",
+"city": "Cincinnati",
+"state": "Ohio"
+},
+{
+"name": "Brassica Kitchen",
+"city": "Boston",
+"state": "Massachusetts"
+},
+{
+"name": "Brewery Bhavana",
+"city": "Raleigh",
+"state": "North Carolina"
+},
+{
+"name": "Buccan",
+"city": "Palm Beach",
+"state": "Florida"
+},
+{
+"name": "Bull & Bear Steakhouse",
+"city": "Orlando",
+"state": "Florida"
+},
+{
+"name": "Cafe Monarch",
+"city": "Scottsdale",
+"state": "Arizona"
+},
+{
+"name": "Cafe Provence",
+"city": "Prairie Village",
+"state": "Kansas"
+},
+{
+"name": "Carlos' Bistro",
+"city": "Colorado Springs",
+"state": "Colorado"
+},
+{
+"name": "Chimney Park",
+"city": "Windsor",
+"state": "Colorado"
+},
+{
+"name": "Clark's Oyster Bar",
+"city": "Austin",
+"state": "Texas"
+},
+{
+"name": "Collage Restaurant",
+"city": "St. Augustine",
+"state": "Florida"
+},
+{
+"name": "Crawford & Son",
+"city": "Raleigh",
+"state": "North Carolina"
+},
+{
+"name": "The Crossing",
+"city": "Clayton",
+"state": "Missouri"
+},
+{
+"name": "CRUST",
+"city": "Miami",
+"state": "Florida"
+},
+{
+"name": "The Dock",
+"city": "Newport Beach",
+"state": "California"
+},
+{
+"name": "Double Knot",
+"city": "Philadelphia",
+"state": "Pennsylvania"
+},
+{
+"name": "Eatt",
+"city": "Las Vegas",
+"state": "Nevada"
+},
+{
+"name": "Elizabeth's Gone Raw",
+"city": "Washington",
+"state": "D.C."
+},
+{
+"name": "The Family Jones Spirit House",
+"city": "Denver",
+"state": "Colorado"
+},
+{
+"name": "Fishing With Dynamite",
+"city": "Manhattan Beach",
+"state": "California"
+},
+{
+"name": "Geronimo",
+"city": "Santa Fe",
+"state": "New Mexico"
+},
+{
+"name": "Girl & the Goat",
+"city": "Chicago",
+"state": "Illinois"
+},
+{
+"name": "Guiso Latin Fusion",
+"city": "Healdsburg",
+"state": "California"
+},
+{
+"name": "Hachi",
+"city": "Carson",
+"state": "California"
+},
+{
+"name": "Hannas Prime Steak",
+"city": "Rancho Santa Margarita",
+"state": "California"
+},
+{
+"name": "Holdfast Dining",
+"city": "Portland",
+"state": "Oregon"
+},
+{
+"name": "Kai | Sheraton Grand at Wild Horse Pass",
+"city": "Phoenix",
+"state": "Arizona"
+},
+{
+"name": "Kendall-Jackson Wine Estate & Gardens",
+"city": "Fulton",
+"state": "California"
+},
+{
+"name": "Kenzo Napa",
+"city": "Napa",
+"state": "California"
+},
+{
+"name": "The Kitchen Restaurant",
+"city": "Sacramento",
+"state": "California"
+},
+{
+"name": "Krave Restaurant",
+"city": "Tequesta",
+"state": "Florida"
+},
+{
+"name": "KUSAKABE",
+"city": "San Francisco",
+"state": "California"
+},
+{
+"name": "L'Auberge Chez Francois",
+"city": "Great Falls",
+"state": "Virginia"
+},
+{
+"name": "L'ATELIER de Joël Robuchon",
+"city": "New York",
+"state": "New York"
+},
+{
+"name": "Lahaina Grill",
+"city": "Lahaina",
+"state": "Hawaii"
+},
+{
+"name": "Le Diplomate",
+"city": "Washington",
+"state": "D.C."
+},
+{
+"name": "Le Yaca",
+"city": "Virginia Beach",
+"state": "Virginia"
+},
+{
+"name": "The Little Owl",
+"city": "New York",
+"state": "New York"
+},
+{
+"name": "Mabel Gray",
+"city": "Hazel Park",
+"state": "Michigan"
+},
+{
+"name": "Mama's Fish House",
+"city": "Paia",
+"state": "Hawaii"
+},
+{
+"name": "Maple & Ash",
+"city": "Chicago",
+"state": "Illinois"
+},
+{
+"name": "Mercato Stellina Pizzeria",
+"city": "Bellevue",
+"state": "Washington"
+},
+{
+"name": "NANCY",
+"city": "St. Simons Island",
+"state": "Georgia"
+},
+{
+"name": "NoJa",
+"city": "Mobile",
+"state": "Alabama"
+},
+{
+"name": "Noord",
+"city": "Philadelphia",
+"state": "Pennsylvania"
+},
+{
+"name": "Ocean 44",
+"city": "Scottsdale",
+"state": "Arizona"
+},
+{
+"name": "Olce Pizza Grille",
+"city": "Cedars",
+"state": "Pennsylvania"
+},
+{
+"name": "Oriole",
+"city": "Chicago",
+"state": "Illinois"
+},
+{
+"name": "Partage",
+"city": "Las Vegas",
+"state": "Nevada"
+},
+{
+"name": "Petrossian Restaurant & Boutique",
+"city": "West Hollywood",
+"state": "California"
+},
+{
+"name": "Phoenicia",
+"city": "Birmingham",
+"state": "Michigan"
+},
+{
+"name": "Quince",
+"city": "San Francisco",
+"state": "California"
+},
+{
+"name": "Rainbow Palace",
+"city": "Fort Lauderdale",
+"state": "Florida"
+},
+{
+"name": "The Restaurant at Convict Lake",
+"city": "Mammoth Lakes",
+"state": "California"
+},
+{
+"name": "The Restaurant at Gideon Ridge",
+"city": "Blowing Rock",
+"state": "North Carolina"
+},
+{
+"name": "Riccardo Trattoria",
+"city": "Chicago",
+"state": "Illinois"
+},
+{
+"name": "Rosmarino Osteria Italiana",
+"city": "Newberg",
+"state": "Oregon"
+},
+{
+"name": "RPM Steak",
+"city": "Chicago",
+"state": "Illinois"
+},
+{
+"name": "Scalini Fedeli",
+"city": "New York",
+"state": "New York"
+},
+{
+"name": "Seven Hills",
+"city": "San Francisco",
+"state": "California"
+},
+{
+"name": "Sotto",
+"city": "Cincinnati",
+"state": "Ohio"
+},
+{
+"name": "St. Anselm",
+"city": "Washington",
+"state": "D.C."
+},
+{
+"name": "St. Francis Winery & Vineyards",
+"city": "Santa Rosa",
+"state": "California"
+},
+{
+"name": "Steak 44",
+"city": "Phoenix",
+"state": "Arizona"
+},
+{
+"name": "Steve & Cookie's By the Bay",
+"city": "Margate",
+"state": "New Jersey"
+},
+{
+"name": "Sushi House",
+"city": "Leawood",
+"state": "Kansas"
+},
+{
+"name": "Sushi Kaito",
+"city": "New York",
+"state": "New York"
+},
+{
+"name": "Table 128 Bistro + Bar",
+"city": "Clive",
+"state": "Iowa"
+},
+{
+"name": "The Table at Season To Taste",
+"city": "Cambridge",
+"state": "Massachusetts"
+},
+{
+"name": "Tallulah Wine Bar and Bistro",
+"city": "Birmingham",
+"state": "Michigan"
+},
+{
+"name": "Tempura Matsui",
+"city": "New York",
+"state": "New York"
+},
+{
+"name": "Terrapin Creek Cafe & Restaurant",
+"city": "Bodega Bay",
+"state": "California"
+},
+{
+"name": "Terzo",
+"city": "San Francisco",
+"state": "California"
+},
+{
+"name": "The WineSellar & Brasserie",
+"city": "San Diego",
+"state": "California"
+},
+{
+"name": "Tomo Sushi & Ramen",
+"city": "Philadelphia",
+"state": "Pennsylvania"
+},
+{
+"name": "Two Fish",
+"city": "Haddonfield",
+"state": "New Jersey"
+},
+{
+"name": "Vernick Coffee Bar",
+"city": "Philadelphia",
+"state": "Pennsylvania"
+},
+{
+"name": "Willow Restaurant",
+"city": "Portland",
+"state": "Oregon"
+},
+{
+"name": "Yopparai",
+"city": "New York",
+"state": "New York"
+}
+]
+}

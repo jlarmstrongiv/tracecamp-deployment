@@ -1,0 +1,24 @@
+type User {
+  id: ID! @id
+  name: String!
+}
+
+type Restaurant {
+  id: ID! @id
+  name: String! @unique
+  description: String!
+  city: String!
+  state: String!
+  numMenuItems: Int
+  createdAt: DateTime @createdAt
+  updatedAt: DateTime @updatedAt
+  menuitems:[MenuItem!]! @relation(name: "RestaurantToMenuItem", onDelete: CASCADE)
+
+}
+
+type MenuItem {
+  id: ID! @id
+  name: String!
+  description: String
+  restaurant: Restaurant! @relation(name: "RestaurantToMenuItem")
+}
